@@ -1,6 +1,6 @@
 ### C program files for implementing various Optimization Techniques.
 
-#### such as:
+#### Such as:
 
 - Bisection Method
 - Fixed Point Method
